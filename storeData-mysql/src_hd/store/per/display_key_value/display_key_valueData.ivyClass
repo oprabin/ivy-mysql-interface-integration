@@ -1,0 +1,6 @@
+display_key_valueData #class
+store.per.display_key_value #namespace
+key_from_db String #field
+key_from_db PERSISTENT #fieldModifier
+value_from_db String #field
+value_from_db PERSISTENT #fieldModifier

@@ -1,0 +1,4 @@
+get_name_of_keyData #class
+store.per.get_name_of_key #namespace
+key_from_input String #field
+key_from_input PERSISTENT #fieldModifier

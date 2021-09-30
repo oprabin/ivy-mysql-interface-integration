@@ -1,0 +1,12 @@
+Data #class
+store.per #namespace
+Key String #field
+Key PERSISTENT #fieldModifier
+Value String #field
+Value PERSISTENT #fieldModifier
+key_from_db String #field
+key_from_db PERSISTENT #fieldModifier
+value_from_db String #field
+value_from_db PERSISTENT #fieldModifier
+key_from_input String #field
+key_from_input PERSISTENT #fieldModifier

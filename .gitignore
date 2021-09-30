@@ -1,0 +1,17 @@
+# general
+Thumbs.db
+storeData-mysql/.DS_Store
+storeData-mysql/*~
+storeData-mysql/*.log
+
+# java
+storeData-mysql/*.class
+storeData-mysql/hs_err_pid*
+
+# maven
+storeData-mysql/target/
+
+# ivy
+storeData-mysql/classes/
+storeData-mysql/src_dataClasses/
+storeData-mysql/src_wsproc/

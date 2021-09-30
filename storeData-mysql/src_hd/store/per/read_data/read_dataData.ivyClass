@@ -1,0 +1,4 @@
+read_dataData #class
+store.per.read_data #namespace
+data store.per.Data #field
+data PERSISTENT #fieldModifier
